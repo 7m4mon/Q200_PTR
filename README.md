@@ -1,5 +1,5 @@
 # Q200_PTR
-Pan/Tilt controller for Qcam Orbit AF
+Pan/Tilt controller for Qcam Orbit AF QCAM-200R.
 
  * The original code was written by logitech.
  * I added the argument for pan/tilt to main function, 
