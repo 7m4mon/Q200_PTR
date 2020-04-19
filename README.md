@@ -7,7 +7,11 @@ Pan/Tilt controller for Qcam Orbit AF QCAM-200R.
  * Author : 7M4MON
  * License : MIT
 
-example 
+## Introduction page  
+[QcamOrbit AF QCAM-200R のパンチルトを制御するソフト](http://nomulabo.com/pic/qcam_mover/ "QcamOrbit AF QCAM-200R のパンチルトを制御するソフト")
+
+
+## example 
 on console,
 > Q200_PTR.exe 10 -15
 
